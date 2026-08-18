@@ -6,7 +6,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-4.2-092E20?style=flat-square&logo=django&logoColor=white)
-![Status](https://img.shields.io/badgeStatus-Active-brightgreen?style=flat-square)
 
 A web blogging platform built with Django. Users can register, log in, publish posts, and browse content from the community feed.
 
